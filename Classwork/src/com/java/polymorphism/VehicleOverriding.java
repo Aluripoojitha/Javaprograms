@@ -6,7 +6,7 @@ public class VehicleOverriding {
 	{
 		System.out.println("Vehicle is running");
 	}
-	 static class bike extends VehicleOverriding{
+	 static  class bike extends VehicleOverriding{
 		void run() {
 			System.out.println("bike is running safely");
 			
