@@ -1,6 +1,6 @@
 package com.java.threadclass;
 
-public class MyThread 
+public class  MyThread 
 {  
 // Main method  
 public static void main(String argvs[])  
