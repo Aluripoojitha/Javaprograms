@@ -1,6 +1,6 @@
 package com.java.testthrowandthrows;
 
-public  class TestThrowAndThrows  
+public class TestThrowAndThrows  
 {  
     // defining a user-defined method  
     // which throws ArithmeticException  
